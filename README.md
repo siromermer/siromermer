@@ -1,5 +1,8 @@
-mail : siromermer@gmail.com<br>
-kaggle profile : https://www.kaggle.com/merfarukgnaydn
+mail : siromermer@gmail.com<br><br>
+I create notebooks about ML & DL <br>
+kaggle profile : https://www.kaggle.com/merfarukgnaydn<br><br>
+I  write articles about my projects or things I've learned, focusing on deep learning and computer vision<br>
+Medium Page : https://medium.com/@siromermer
 <br><br><br>
 <table>
 <tr><th>Machine Learning </th><th>Other </th></tr>
