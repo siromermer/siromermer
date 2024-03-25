@@ -1,8 +1,23 @@
-mail : siromermer@gmail.com<br><br>
-I create notebooks about ML & DL <br>
-kaggle profile : https://www.kaggle.com/merfarukgnaydn<br><br>
-I  write articles about my projects or things I've learned, focusing on deep learning and computer vision<br>
-Medium Page : https://medium.com/@siromermer
+
+## Accounts
+- <h3> mail : siromermer@gmail.com </h3>
+
+- <h3>I create notebooks about ML & DL (Tensorflow & Pytorch)<br> Kaggle profile : https://www.kaggle.com/merfarukgnaydn</h3>
+
+- <h3> I  regularly write articles about Computer Vision and Deep Learning (OpenCV & Tensorflow) <br> Medium profile : https://medium.com/@siromermer</h3>
+<br><br>
+
+## Main Projects 
+
+###  Text Extractor Summarizer Translator MobileApp  --> Image Processing , Text Extracting , NLP(Summarizers)
+- <a href="https://github.com/siromermer/Text-Extractor-Summarizer-Translator-MobileApp">mobile application</a>  designed to extract, summarize, and translate text from images(book pages ,online documentations ...) <br>--> Python , Opencv , Flask , Flutter , Dart
+###  CSGO Object Detector --> Object Detection 
+- <a href="https://github.com/siromermer/CS2-CSGO-Yolov8-Yolov7-ObjectDetection">Extension</a> for CSGO game( <a href="https://github.com/siromermer/CS2-CSGO-Yolov8-Yolov7-ObjectDetection">check repository for more info</a>) , Custom object detector trained with the YOLOv8 model.<br>
+--> Pytorch , OpenCV 
+###  Football Statistic Mobile App/GUI<br> --> Data Cleaning , processing , visualization of Data
+- <a href="https://github.com/siromermer/Flutter-Football-App">Mobile app</a> that allows users to access various complex statistics about teams and leagues. It can be used to gain insights before placing football bets .<BR> --> Pandas , Flask , Flutter
+
+
 <br><br><br>
 <table>
 <tr><th>Machine Learning </th><th>Other </th></tr>
