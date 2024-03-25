@@ -10,7 +10,7 @@
 ## Main Projects 
 
 ###  Text Extractor Summarizer Translator MobileApp  --> Image Processing , Text Extracting , NLP(Summarizers)
-- <a href="https://github.com/siromermer/Text-Extractor-Summarizer-Translator-MobileApp">mobile application(ML)</a>  designed to extract, summarize, and translate text from images(book pages ,online documentations ...) <br>--> Python , Opencv , Flask , Flutter , Dart
+- <a href="https://github.com/siromermer/Text-Extractor-Summarizer-Translator-MobileApp">mobile application(ML&CV)</a>  designed to extract, summarize, and translate text from images(book pages ,online documentations ...) <br>--> Python , Opencv , Flask , Flutter , Dart
 ###  CSGO Object Detector --> Object Detection 
 - <a href="https://github.com/siromermer/CS2-CSGO-Yolov8-Yolov7-ObjectDetection">Extension</a> for CSGO game( <a href="https://github.com/siromermer/CS2-CSGO-Yolov8-Yolov7-ObjectDetection">check repository for more info</a>) , Custom object detector trained with the YOLOv8 model.<br>
 --> Pytorch , OpenCV 
