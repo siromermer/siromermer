@@ -29,7 +29,7 @@
 | [Text Extractor Summarizer<br> Translator MobileApp](https://github.com/siromermer/Text-Extractor-Summarizer-Translator-MobileApp)  | ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) <br>Flutter & Flask  |
 | [Money Counter Object<br>Detection SSD-MobileNet](https://github.com/siromermer/Money-Counter-TurkishCurrency)  | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)  ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) |
 | [Money Counter (yolo) V2 <br>Yolov7](https://github.com/siromermer/Yolov7-CustomModel-Money-Counter-TurkishCurrency)|  ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)  ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) 
-| [Pipeline for Deep Learning](https://github.com/siromermer/Full-Pipeline-DL) | ![KERAS](https://github.com/siromermer/siromermer/assets/113242649/1ea64d6f-9254-4eed-ac92-db5f249891e5) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) |
+| [Pipeline for Deep Learning](https://github.com/siromermer/Full-Pipeline-DL) | ![KERAS](https://github.com/siromermer/siromermer/assets/113242649/1ea64d6f-9254-4eed-ac92-db5f249891e5) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)<br> ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) |
 | [Object-Detection-GUI<br>-application-with-Colors-HSV ](https://github.com/siromermer/Object-Detection-GUI-application-with-Colors-HSV) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)  ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
 | [Object Tracker /<br> meanShift Algorithm ](https://github.com/siromermer/Object-Tracker-Opencv) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)  ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
 | [Line-Following-Algorithms<br>-for-LineFolllowerDrone ](https://github.com/siromermer/Line-Following-Algorithms-for-LineFolllowerDrone) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)  ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
@@ -49,12 +49,12 @@
 
 |Title | Tools | 
 |--|--
+| [Flutter Football App](https://github.com/siromermer/Flutter-Football-App)| Flutter & Pandas & Flask|  
 | [PDF & Subtitle Translator](https://github.com/siromermer/pdf-subtitle-Translator)  |pytesseract & pandas ..|
 | [English-Turkish Dictionary](https://github.com/siromermer/english-turkish-dictionary)  |tkinter & requests ..|
 | [Parkour Game (OOP)](https://github.com/siromermer/parkour_game)| Pygame |  
 | [Fifa Players Searcher](https://github.com/siromermer/fifa22-player-searcher-gui)| Tkinter & Pandas  |  
 | [Image Scraper](https://github.com/siromermer/Image-Scraper)| Scrapy|  
-| [Flutter Football App](https://github.com/siromermer/Flutter-Football-App)| Flutter & Dart & Flask|  
 | [Infinte Video Creater]( https://github.com/siromermer/creating-infinite-videos)|tkinter,Image .. |  
 |S | |  
 |A | |  
