@@ -7,15 +7,18 @@
 - <h3> I  regularly write articles about Computer Vision and Deep Learning (OpenCV & Tensorflow & Pytorch) <br> Medium profile : https://medium.com/@siromermer</h3>
 <br><br>
 
-## Main Projects 
+## Main Projects <br>
 
 ###  Text Extractor Summarizer Translator MobileApp  --> Image Processing , Text Extracting , NLP(Summarizers)
-- <a href="https://github.com/siromermer/Text-Extractor-Summarizer-Translator-MobileApp">mobile application(ML&CV)</a>  designed to extract, summarize, and translate text from images(book pages ,online documentations ...) <br>--> Python , Opencv , Flask , Flutter , Dart
+- <a href="https://github.com/siromermer/Text-Extractor-Summarizer-Translator-MobileApp">mobile application(ML&CV)</a>  designed to extract, summarize, and translate text from images(book pages ,online documentations ...) <br>--> Python , Opencv , Flask , Flutter , Dart <br><br>
 ###  CSGO Object Detector --> Object Detection 
 - <a href="https://github.com/siromermer/CS2-CSGO-Yolov8-Yolov7-ObjectDetection">Extension</a> for CSGO game( <a href="https://github.com/siromermer/CS2-CSGO-Yolov8-Yolov7-ObjectDetection">check repository for more info</a>) , Custom object detector trained with the YOLOv8 model.<br>
---> Pytorch , OpenCV 
-###  Football Statistic Mobile App/GUI<br> --> Data Cleaning , processing , visualization of Data
+--> Pytorch , OpenCV<br><br>
+###  Converting Real life Chessboard Photos to a 2D Chessboard-Format --> Object Detection , Image Processing 
+- <a href="https://github.com/siromermer/Converting-Real-life-Chessboard-Photos-to-a-2D-Chessboard-Format">Converter</a> for real-life Chess images to 2D format  (format used by chess.com,lichess.org)  <BR> --> OpenCV,Pytorch,Pandas, Numpy <br><br>
+###  Football Statistic Mobile App/GUI --> Data Cleaning , Processing , Visualization of Data
 - <a href="https://github.com/siromermer/Flutter-Football-App">Mobile app(Data processing)</a> that allows users to access various complex statistics about teams and leagues. It can be used to gain insights before placing football bets .<BR> --> Pandas , Flask , Flutter
+
 
 
 <br><br><br>
@@ -26,6 +29,7 @@
 |Title | Tools | 
 |--|--
 | [CSGO-CS2 0bject Detection](https://github.com/siromermer/CS2-CSGO-Yolov8-Yolov7-ObjectDetection)  | ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) 
+| [Reak-life chess Image Converter](https://github.com/siromermer/Converting-Real-life-Chessboard-Photos-to-a-2D-Chessboard-Format)  | ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)   ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) 
 | [Text Extractor Summarizer<br> Translator MobileApp](https://github.com/siromermer/Text-Extractor-Summarizer-Translator-MobileApp)  | ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) <br>Flutter & Flask  |
 | [Money Counter Object<br>Detection SSD-MobileNet](https://github.com/siromermer/Money-Counter-TurkishCurrency)  | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)  ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) |
 | [Money Counter (yolo) V2 <br>Yolov7](https://github.com/siromermer/Yolov7-CustomModel-Money-Counter-TurkishCurrency)|  ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)  ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) 
