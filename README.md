@@ -2,9 +2,9 @@
 ## Accounts
 - <h3> mail : siromermer@gmail.com </h3>
 
-- <h3>I create notebooks about ML & DL (Tensorflow & Pytorch)<br> Kaggle profile : https://www.kaggle.com/merfarukgnaydn</h3>
-
 - <h3> I  regularly write articles about Computer Vision and Deep Learning (OpenCV & Tensorflow & Pytorch) <br> Medium profile : https://medium.com/@siromermer</h3>
+
+- <h3>I create notebooks about ML & DL (Tensorflow & Pytorch)<br> Kaggle profile : https://www.kaggle.com/merfarukgnaydn</h3>
 <br><br>
 
 ## Main Projects <br>
