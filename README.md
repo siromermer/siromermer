@@ -12,9 +12,6 @@
 ###  Converting Real life Chessboard Photos to a 2D Chessboard-Format --> Object Detection , Image Processing 
 - <a href="https://github.com/siromermer/Dynamic-Chess-Board-Piece-Extraction">Converter</a> for real-life Chess images to 2D format  (format used by chess.com,lichess.org)  <BR> --> OpenCV,Pytorch,Pandas, Numpy ,Depthai <br><br>
 
-###  Text Extractor Summarizer Translator MobileApp  --> Image Processing , Text Extracting , NLP(Summarizers)
-- <a href="https://github.com/siromermer/Text-Extractor-Summarizer-Translator-MobileApp">mobile application(ML&CV)</a>  designed to extract, summarize, and translate text from images(book pages ,online documentations ...) <br>--> Python , Opencv , Flask , Flutter , Dart <br><br>
-
 ###  CSGO Object Detector --> Object Detection 
 - <a href="https://github.com/siromermer/CS2-CSGO-Yolov8-Yolov7-ObjectDetection">Extension</a> for CSGO game( <a href="https://github.com/siromermer/CS2-CSGO-Yolov8-Yolov7-ObjectDetection">check repository for more info</a>) , Custom object detector trained with the YOLOv8 model.<br>
 --> Pytorch , OpenCV<br><br>
