@@ -10,13 +10,16 @@
 ## Main Projects <br>
 
 ###  Converting Real life Chessboard Photos to a 2D Chessboard-Format --> Object Detection , Image Processing 
-- <a href="https://github.com/siromermer/Dynamic-Chess-Board-Piece-Extraction">Converter</a> for real-life Chess images to 2D format  (format used by chess.com,lichess.org)  <BR> --> OpenCV,Pytorch,Pandas, Numpy ,Depthai <br><br>
+- <a href="https://github.com/siromermer/Dynamic-Chess-Board-Piece-Extraction">Converter</a> for real-life Chess images to 2D format  (format used by chess.com,lichess.org)  <BR>
+- OpenCV,Pytorch,Pandas, Numpy ,Depthai <br><br>
 
 ###  CSGO Object Detector --> Object Detection 
-- <a href="https://github.com/siromermer/CS2-CSGO-Yolov8-Yolov7-ObjectDetection">Extension</a> for CSGO game( <a href="https://github.com/siromermer/CS2-CSGO-Yolov8-Yolov7-ObjectDetection">check repository for more info</a>) , Custom object detector trained with the YOLOv8 model.<br>
---> Pytorch , OpenCV<br><br>
+- <a href="https://github.com/siromermer/CS2-CSGO-Yolov8-Yolov7-ObjectDetection">Extension</a> for CSGO game: Developed a real-time object detection extension by training YOLOv8 and YOLOv7 models to enhance
+aiming precision within the Counter-Strike: Global Offensive (CSGO) game.<br>
+- Pytorch , OpenCV<br><br>
  
  ###  OpenCV Projects --> Object Tracking & Detecting with different algorithms --> c++ and python
-- <a href="https://github.com/siromermer/OpenCV-Projects-cpp-python">  Object tracking</a> with --> SIFT , FAST , ORB , Meanshift , Lucas Kanade , Background Subtraction . Both c++ and python implementation for each project
+- <a href="https://github.com/siromermer/OpenCV-Projects-cpp-python">  Object tracking</a> with --> SIFT , FAST , ORB , Meanshift , Lucas Kanade , Background Subtraction .
+-  Both c++ and python implementation for each project
 
 
