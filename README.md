@@ -1,24 +1,23 @@
 
-#### Accounts
 
-- <h3> Personal website about Computer Vision and Deep Learning: https://visionbrick.com/ </h3>
 
-- <h5> Articles about Computer Vision and Deep Learning (OpenCV & Tensorflow & Pytorch) <br> Medium profile : https://medium.com/@siromermer</h5>
+<p>Hello, welcome to my little world. I am a 4th-year Computer Engineering student living in Turkey. I have been working on computer vision and deep learning for the past 2 years.</p>
 
-- <h5> Notebooks about ML & DL (Tensorflow & Pytorch)<br> Kaggle profile : https://www.kaggle.com/merfarukgnaydn</h5>
+<p>On GitHub, I share my personal projects, and most of them are related to computer vision.<br></p>
+
+<p>I love writing articles about computer vision and deep learning, and for the past year, I have published them on Medium. But at the beginning of this summer, I launched my own website: <a href="https://visionbrick.com" target="_blank">visionbrick.com</a>. I strongly recommend you to read from visionbrick, because the content on Medium is not updated. Also, you can find more information about me on visionbrick (but of course, only if you are interested :D).<br></p>
+
 <br>
-
-#### Main Projects <br>
-
-#####  Converting Real life Chessboard Photos to a 2D Chessboard-Format --> Object Detection , Image Processing 
-- <a href="https://github.com/siromermer/Dynamic-Chess-Board-Piece-Extraction">Converter</a> for real-life Chess images to 2D format  (format used by chess.com,lichess.org)  <BR>
-- OpenCV,Pytorch,Pandas, Numpy ,Depthai <br>
-
-#####  CSGO Object Detector --> Object Detection 
-- <a href="https://github.com/siromermer/CS2-CSGO-Yolov8-Yolov7-ObjectDetection">Extension</a> for CSGO game: Developed a real-time object detection extension by training YOLOv8 and YOLOv7 models to enhance
-aiming precision within the Counter-Strike: Global Offensive (CSGO) game.<br>
-- Pytorch , OpenCV<br>
+<p>I have 3 main repositories here; you can see them below in the Pinned Repositories
  
-#####  OpenCV Projects --> Object Tracking & Detecting with different algorithms --> c++ and python
-- <a href="https://github.com/siromermer/OpenCV-Projects-cpp-python"> Computer vision projects</a> focused on object detection, object tracking, classical computer vision techniques, image segmentation, feature extraction algorithms, and more. Python and C++ implementations available.
+* The first one is about chess. It is a dynamic pipeline for generating FEN format (a format like Chess.com and Lichess.org) from images and video feed (OAK-D Lite). It works with different angles, chessboards, and pieces.<br>
+* The second one is some kind of extension (okay, I admit it is not an extension) for the CSGO game. It detects enemies and directly triggers the mouse to aim at the enemy’s head and shoot for you.<br>
+* The third one is where I collect all my small computer vision projects, and they all have blog posts on my personal website  <a href="https://visionbrick.com" target="_blank">visionbrick.com</a> and on my Medium account.</p>
+
+<br>
+<h5> Personal website about Computer Vision and Deep Learning: https://visionbrick.com/ </h5>
+<h5> Articles about Computer Vision and Deep Learning (OpenCV & Tensorflow & Pytorch) <br> Medium profile : https://medium.com/@siromermer</h5>
+<h5> Notebooks about ML & DL (Tensorflow & Pytorch)<br> Kaggle profile : https://www.kaggle.com/merfarukgnaydn</h5>
+
+
 
