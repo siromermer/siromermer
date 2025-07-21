@@ -1,7 +1,7 @@
 
 #### Accounts
 
-- <h4> Personal website about Computer Vision and Deep Learning: https://visionbrick.com/ </h4>
+- <h3> Personal website about Computer Vision and Deep Learning: https://visionbrick.com/ </h3>
 
 - <h5> Articles about Computer Vision and Deep Learning (OpenCV & Tensorflow & Pytorch) <br> Medium profile : https://medium.com/@siromermer</h5>
 
