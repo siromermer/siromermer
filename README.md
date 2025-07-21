@@ -1,8 +1,7 @@
 
 #### Accounts
-- <h4> siromermer@gmail.com </h3>
 
-- <h4>  Personal website about Computer Vision and Deep Learning: https://visionbrick.com/ </h4>
+- <h4> Personal website about Computer Vision and Deep Learning: https://visionbrick.com/ </h4>
 
 - <h5> Articles about Computer Vision and Deep Learning (OpenCV & Tensorflow & Pytorch) <br> Medium profile : https://medium.com/@siromermer</h5>
 
