@@ -1,7 +1,7 @@
 
 
 
-<p>Hello, welcome to my little world. I am a 4th-year Computer Engineering student living in Turkey. I have been working on computer vision and deep learning for the past 3 years.</p>
+<p>Hello, welcome to my little world. I am an MSc student in Computer Engineering at Middle East Technical University (ODTÜ). Before starting my MSc, I completed two internships in the field of computer vision, and I've been working on computer vision and deep learning for the past 4 years.</p>
 
 <p>On GitHub, I share my personal projects, and most of them are related to computer vision.<br></p>
 
